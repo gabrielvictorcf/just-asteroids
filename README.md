@@ -18,7 +18,7 @@ just-asteroids uses python's `keyboard` module, so although a regular
 install will suffice on windows, linux needs a root install (sorry!)
 
 ### Pip install
-	pip install git+https://github.com/gabrielvictorcf/just-asteroids#egg=just-asteroids
+	pip install git+https://github.com/gabrielvictorcf/just-asteroids#egg=justasteroids
 
 ### Manual/Git install
 	git clone https://github.com/gabrielvictorcf/just-asteroids
